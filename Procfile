@@ -1,1 +1,1 @@
-worker: python video.py
+AUTHOR DELETED
